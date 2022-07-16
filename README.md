@@ -1,4 +1,4 @@
-<Doctype=HTML!>
+<!Doctype Html>
 <head>
 </head>
 <body>
